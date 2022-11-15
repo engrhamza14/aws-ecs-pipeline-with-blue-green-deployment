@@ -1,6 +1,6 @@
 {
     "ipcMode": null,
-    "executionRoleArn": "arn:aws:iam::708995052028:role/ecsTaskExecutionRole",
+    "executionRoleArn": "arn:aws:iam::483847144693:role/ecsTaskExecutionRole",
     "containerDefinitions": [
         {
             "dnsSearchDomains": null,
@@ -51,12 +51,12 @@
     ],
     "placementConstraints": [],
     "memory": "150",
-    "taskRoleArn": "arn:aws:iam::708995052028:role/ecsTaskExecutionRole",
+    "taskRoleArn": "arn:aws:iam::483847144693:role/ecsTaskExecutionRole",
     "compatibilities": [
         "EXTERNAL",
         "EC2"
     ],
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:708995052028:task-definition/ecs-td-blue-green:1",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:483847144693:task-definition/ecs-td-blue-green:1",
     "family": "ecs-td-blue-green",
     "requiresAttributes": [
         {
