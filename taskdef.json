@@ -56,8 +56,8 @@
         "EXTERNAL",
         "EC2"
     ],
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:483847144693:task-definition/ecs-td-blue-green:1",
-    "family": "ecs-td-blue-green",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:483847144693:task-definition/ecs-blue-green-td:1",
+    "family": "ecs-blue-green-td",
     "requiresAttributes": [
         {
             "targetId": null,
